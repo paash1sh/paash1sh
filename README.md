@@ -19,7 +19,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```python
 class AashishPaudel:

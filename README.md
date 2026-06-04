@@ -43,7 +43,7 @@ class AashishPaudel:
 
 ---
 
-## `tech_stack --verbose`
+## `tech_stack`
 
 **Test Automation**
 

@@ -1,7 +1,7 @@
 <!-- Profile README for paash1sh -->
 
-<div align="centre">
-
+<div align="center">
+###<
 ```
  █████╗  █████╗ ███████╗██╗  ██╗ ██╗███████╗██╗  ██╗
 ██╔══██╗██╔══██╗██╔════╝██║  ██║ ██║██╔════╝██║  ██║
@@ -10,7 +10,7 @@
 ██║  ██║██║  ██║███████║██║  ██║ ██║███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝
 ```
-
+/>
 ### `< QA Engineer | Automation | Cloud />`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Automating+the+untestable+since+2018+%F0%9F%94%A5;Selenium+%7C+Cypress+%7C+Python+%7C+pytest;Salesforce+%7C+AWS+%7C+ETL+Data+Validation;Breaking+things+so+users+don't+have+to+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)

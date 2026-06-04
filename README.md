@@ -1,7 +1,6 @@
 <!-- Profile README for paash1sh -->
 
 <div align="center">
-###<
 ```
  █████╗  █████╗ ███████╗██╗  ██╗ ██╗███████╗██╗  ██╗
 ██╔══██╗██╔══██╗██╔════╝██║  ██║ ██║██╔════╝██║  ██║
@@ -10,7 +9,6 @@
 ██║  ██║██║  ██║███████║██║  ██║ ██║███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝
 ```
-/>
 ### `< QA Engineer | Automation | Cloud />`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Automating+the+untestable+since+2018+%F0%9F%94%A5;Selenium+%7C+Cypress+%7C+Python+%7C+pytest;Salesforce+%7C+AWS+%7C+ETL+Data+Validation;Breaking+things+so+users+don't+have+to+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
@@ -126,7 +124,6 @@ class AashishPaudel:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aapaudel)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:aapaudel@hotmail.com?subject=Job%20Opportunity%20for%20Aashish)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paash1sh)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paash1sh&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)

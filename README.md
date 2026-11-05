@@ -87,22 +87,11 @@ public class AashishPaudel {
 
 ---
 
-## `ls -la projects/`
-
-| Project | Stack | What it shows |
-|---------|-------|---------------|
-| 📅 [day-planner](https://github.com/paash1sh/REPO-NAME) | Java · Spring Boot · Angular | Full stack app with a REST backend |
-| 🛒 [ecommerce-platform](https://github.com/paash1sh/REPO-NAME) | Java · React | Backend and storefront for a real business |
-| ☕ [java-zero-to-Hero](https://github.com/paash1sh/java-zero-to-Hero) | Java 8–21 · Maven | Hands-on language and API practice |
-| 🔬 [lms-selenium-test-suite](https://github.com/paash1sh/lms-selenium-test-suite) | Java · Selenium · JUnit | Test automation in Java |
-
----
 
 ## `cat experience.log`
 
 ```
-Earlier experience: QA, ETL, Salesforce, and cloud validation
-Now: building Java and Spring Boot applications
+Building Java and Spring Boot applications
 See LinkedIn for my full work history
 ```
 
